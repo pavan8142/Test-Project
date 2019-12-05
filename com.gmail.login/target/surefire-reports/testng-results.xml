@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="42" started-at="2019-08-17T04:27:28Z" finished-at="2019-08-17T04:27:28Z">
+  <suite name="Suite" duration-ms="57" started-at="2019-08-17T05:15:07Z" finished-at="2019-08-17T05:15:07Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="42" started-at="2019-08-17T04:27:28Z" finished-at="2019-08-17T04:27:28Z">
+    <test name="Test" duration-ms="57" started-at="2019-08-17T05:15:07Z" finished-at="2019-08-17T05:15:07Z">
       <class name="com.gmail.login.Test1">
-        <test-method status="PASS" signature="helloWorld()[pri:0, instance:com.gmail.login.Test1@6e8dacdf]" name="helloWorld" duration-ms="12" started-at="2019-08-17T04:27:28Z" finished-at="2019-08-17T04:27:28Z">
+        <test-method status="PASS" signature="helloWorld()[pri:0, instance:com.gmail.login.Test1@6e8dacdf]" name="helloWorld" duration-ms="11" started-at="2019-08-17T05:15:07Z" finished-at="2019-08-17T05:15:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- helloWorld -->
